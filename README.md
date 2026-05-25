@@ -14,6 +14,6 @@
 - Filmorate
 
 ## Contacts
-- HH
-- Telegram
-- Email
+- HH https://perm.hh.ru/resume/ed28ecf6ff033e19250039ed1f564d3041754b
+- Telegram @EugenFedor
+- Email fedorovevgeny0403@gmail.com
