@@ -33,7 +33,6 @@ Backend developer focused on Spring Boot applications, REST APIs and database-dr
 - Docker
 - Spring Security + JWT
 - Testcontainers
-- Redis
 
 ## Contacts
 
