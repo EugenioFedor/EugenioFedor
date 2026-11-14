@@ -13,9 +13,9 @@ Stack:
 - GitHub Actions
 
 Projects:
-- Explore With Me — event management platform with statistics service
-- ShareIt — item sharing platform with booking system
-- Filmorate — movie recommendation platform with reviews, recommendations and event feed
+- [Explore With Me](https://github.com/EugenioFedor/explore-with-me-graduation) — event management platform with microservices and recommendations.
+- [ShareIt](https://github.com/EugenioFedor/java-shareit) — item sharing and booking service.
+- [Filmorate](https://github.com/EugenioFedor/java-filmorate) — movie recommendation service.
 
 Currently learning:
 - Docker
